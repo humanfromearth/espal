@@ -1,13 +1,6 @@
-//
-//  ViewController.h
-//  espal
-//
-//  Created by Alex Plugaru on 30/04/14.
-//  Copyright (c) 2014 espal. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UINavigationControllerDelegate, UIImagePickerControllerDelegate, AVCaptureFileOutputRecordingDelegate>
 
 @end
