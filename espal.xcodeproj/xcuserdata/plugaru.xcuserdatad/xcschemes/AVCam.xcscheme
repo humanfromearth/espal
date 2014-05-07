@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A1C22221911043900057017"
-               BuildableName = "espal.app"
+               BlueprintIdentifier = "2F360BA117692C4700D9A404"
+               BuildableName = "AVCam.app"
                BlueprintName = "espal"
                ReferencedContainer = "container:espal.xcodeproj">
             </BuildableReference>
@@ -28,22 +28,12 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A1C22431911043900057017"
-               BuildableName = "espalTests.xctest"
-               BlueprintName = "espalTests"
-               ReferencedContainer = "container:espal.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A1C22221911043900057017"
-            BuildableName = "espal.app"
+            BlueprintIdentifier = "2F360BA117692C4700D9A404"
+            BuildableName = "AVCam.app"
             BlueprintName = "espal"
             ReferencedContainer = "container:espal.xcodeproj">
          </BuildableReference>
@@ -61,8 +51,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A1C22221911043900057017"
-            BuildableName = "espal.app"
+            BlueprintIdentifier = "2F360BA117692C4700D9A404"
+            BuildableName = "AVCam.app"
             BlueprintName = "espal"
             ReferencedContainer = "container:espal.xcodeproj">
          </BuildableReference>
@@ -79,8 +69,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A1C22221911043900057017"
-            BuildableName = "espal.app"
+            BlueprintIdentifier = "2F360BA117692C4700D9A404"
+            BuildableName = "AVCam.app"
             BlueprintName = "espal"
             ReferencedContainer = "container:espal.xcodeproj">
          </BuildableReference>

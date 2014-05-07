@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>620030F5-E5AC-4115-9AE2-54D79DDB3544</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AVCam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8686CE7-FF01-4C17-A859-4F5C3329D78D</key>
+		<string>ssh://github.com/humanfromearth/espal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVCam.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8686CE7-FF01-4C17-A859-4F5C3329D78D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/humanfromearth/espal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8686CE7-FF01-4C17-A859-4F5C3329D78D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8686CE7-FF01-4C17-A859-4F5C3329D78D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>espal</string>
+		</dict>
+	</array>
+</dict>
+</plist>
